@@ -1,5 +1,5 @@
 My website : https://riyoma.pages.dev/
-# Vibe Coded – Educational Styling Helper
+# Vibe Coded Open Source – Educational Styling Helper 
 
 This project is created **for educational purposes**.  
 It is built to help **vibe coders** who struggle with understanding styling concepts and don’t want to waste time searching for examples or explanations.
