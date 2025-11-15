@@ -93,7 +93,7 @@ export function Hero() {
               transition={{ delay: 0.5 }}
               className="text-white/70 max-w-2xl mx-auto"
             >This project is open-source and Vibe-coded for educational purposes.
-If you want to suggest improvements or contact me, here is my Instagram: @r1yoma<br>
+If you want to suggest improvements or contact me, here is my Instagram: @r1yoma <br></br>
               Master cutting-edge design techniques with comprehensive explanations, 
               interactive demonstrations, and ready-to-use code snippets. From glassmorphism 
               to micro-interactions, learn everything you need to create stunning modern interfaces.
