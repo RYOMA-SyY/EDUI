@@ -21,5 +21,4 @@ The goal of this website is to provide clean, simple, and practical styling reso
 
 ```bash
 git clone https://github.com/RYOMA-SyY/EDUI.git
-npm install
-npm start
+npm run dev 
