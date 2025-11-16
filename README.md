@@ -1,4 +1,5 @@
 My website : https://riyoma.pages.dev/
+The Project : https://edui1.netlify.app/
 # Vibe Coded Open Source – Educational Styling Helper 
 
 This project is created **for educational purposes**.  
